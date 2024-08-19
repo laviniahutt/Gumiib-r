@@ -1,0 +1,16 @@
+Unser Datensatz:
+Wir haben Dozenten und Azubis gebeten "ein paar" Gummibärchen zu nehmen
+
+*id*
+Spezifische Zuordnung der Teilnehmenden
+
+*G*
+Anzahl an Gummibärchen, die genommen wurden
+
+*gender*
+1 = weiblich
+2 = männlich
+
+*age*
+1 = Azubi
+2 = Dozent
